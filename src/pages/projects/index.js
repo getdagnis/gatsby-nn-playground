@@ -6,7 +6,7 @@ export default function Projects() {
     <Layout>
       <section>
         <div>
-          <h2>Projects</h2>
+          <h1>Projects</h1>
           <h3>Develop & Deploy</h3>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae

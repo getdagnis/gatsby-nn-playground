@@ -1,12 +1,13 @@
 import React from "react"
 import Layout from "../components/Layout"
+import "../styles/global.scss"
 
 export default function Home() {
   return (
     <Layout>
       <section>
         <div>
-          <h2>Design</h2>
+          <h1>Design</h1>
           <h3>Develop & Deploy</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
